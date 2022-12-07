@@ -1,4 +1,4 @@
-FROM debian:bullseye
+FROM debian:11.5
 SHELL ["/bin/bash", "-c"]
 
 ARG BUILD_DATE
